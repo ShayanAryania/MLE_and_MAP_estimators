@@ -86,5 +86,3 @@ Using the same coin-flipping example, suppose we have prior knowledge that \( \t
 **Conclusion:**  
 - **MLE** is useful when there is **no prior information** and when we have **large amounts of data**.
 - **MAP** is better when we have **prior beliefs** or **limited data**, as it regularizes the estimate.
-
-Would you like a Python example demonstrating both methods? 🚀
